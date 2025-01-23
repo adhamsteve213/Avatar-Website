@@ -1,2 +1,2 @@
 # Avatar-Website
-Made w
+Made with html/css
